@@ -1,0 +1,10 @@
+     # Data and results are never committed (data are downloaded from IBGE)
+     data/*
+     !data/README.md
+     output/*
+     !output/.gitkeep
+
+     .Rhistory
+     .RData
+     .Rproj.user/
+     .Renviron
